@@ -22,3 +22,7 @@ You can also find me on:
 - [Mastodon](https://mamot.fr/@Deuchnord)
 - [Twitter](https://twitter.com/logideuchnord)
 - [Twitch](https://twitch.tv/deuchnord)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=deuchnord/f2ap,kosmorro/kosmorro,kosmorro/lib,deuchnord/aurornis&type=Date)](https://star-history.com/#deuchnord/f2ap&kosmorro/kosmorro&kosmorro/lib&deuchnord/aurornis&Date)
