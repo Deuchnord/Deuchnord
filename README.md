@@ -26,4 +26,4 @@ You can also find me on:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=deuchnord/f2ap,kosmorro/kosmorro,kosmorro/lib,deuchnord/aurornis,deuchnord/no-ai-bundle&type=Date)](https://star-history.com/#deuchnord/f2ap&kosmorro/kosmorro&kosmorro/lib&deuchnord/aurornis&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=deuchnord/f2ap,kosmorro/kosmorro,kosmorro/lib,deuchnord/aurornis,deuchnord/no-ai-bundle&type=Date)
