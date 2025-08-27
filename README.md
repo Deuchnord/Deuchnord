@@ -5,6 +5,7 @@ I'm a backend developer at [Les-Tilleuls.coop](https://les-tilleuls.coop) and an
 On my free time, I create and maintain:
 
 - [Kosmorro](https://kosmorro.space), an astronomy software that helps you to prepare your observation nights
+- [NoAiBundle](https://github.com/Deuchnord/no-ai-bundle), a Symfony bundle to block LLM crawlers
 - [f2ap](https://github.com/Deuchnord/f2ap), a server application to connect your website to [the Fediverse](https://fediverse.party) thanks to your RSS/Atom feed.
 - [Twason](https://github.com/Deuchnord/twason), a Twitch chatbot that you configure with a JSON file
 - [`checksitemap`](https://github.com/Deuchnord/checksitemap), a simple program to validate a website sitemap
@@ -25,4 +26,4 @@ You can also find me on:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=deuchnord/f2ap,kosmorro/kosmorro,kosmorro/lib,deuchnord/aurornis&type=Date)](https://star-history.com/#deuchnord/f2ap&kosmorro/kosmorro&kosmorro/lib&deuchnord/aurornis&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=deuchnord/f2ap,kosmorro/kosmorro,kosmorro/lib,deuchnord/aurornis,deuchnord/no-ai-bundle&type=Date)](https://star-history.com/#deuchnord/f2ap&kosmorro/kosmorro&kosmorro/lib&deuchnord/aurornis&Date)
