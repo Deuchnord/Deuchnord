@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a backend developer at [Les-Tilleuls.coop](https://les-tilleuls.coop) and an amateur astronomer.
+I'm a [freelance Web developer](https://m42-software.eu) and an amateur astronomer.
 
 On my free time, I create and maintain:
 
