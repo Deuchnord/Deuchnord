@@ -20,7 +20,7 @@ I also contribute to the following projects on a more or less regular basis:
 You can also find me on:
 
 - [my website](https://deuchnord.fr) (also [on the gemini network](gemini://deuchnord.fr))
-- [Mastodon](https://social.deuchhnord.fr/@Deuchnord)
+- [Mastodon](https://social.deuchnord.fr/@Deuchnord)
 - [Twitter](https://twitter.com/logideuchnord)
 - [Twitch](https://twitch.tv/deuchnord)
 
